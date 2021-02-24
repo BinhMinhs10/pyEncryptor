@@ -49,21 +49,9 @@ Reading .pyd file is difficult but not impossible so if you want more
 security for your code try C++ programming and convert it in .dll or
 .exe file.  
 It will also create an ``.c`` file which contain the python algorithm in
-c programing language.  
-## Contributing
+c programing language.
 
-Please read [CONTRIBUTING.md](.github/CONTRIBUTING.md) for details on 
-our code of conduct, and the process for submitting pull requests to 
-us.
-
-## Authors
-- Pranjal Bhaskare : pranjalab@gmail.com  
-
-For any suggestion or issue with the project contact the author.
 
 ## License
 This project is licensed under the MIT License - see the 
 [LICENSE](.github/LICENSE) file for details.
-
-## Acknowledgments
-- Cython team
